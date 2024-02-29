@@ -212,14 +212,14 @@ const Card = () => {
                           ${subTotal}
                         </div>
                       </div>
-                      {/* <div className="row">
+                      { <div className="row">
                     <div className="card-title col d-flex align-items-center"></div>
                     <div className="card-title col text-end fs-4 fw-normal">
                       <button className="btn btn-primary">
                         Proceed to pay
                       </button>
                     </div>
-                  </div> */}
+                  </div> }
                     </div>
                   </div>
                 </div>
